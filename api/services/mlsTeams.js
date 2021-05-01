@@ -1,0 +1,31 @@
+const teams = {
+	'00': 'invalid',
+	'11': 'cincinnati',
+	'12': 'galaxy',
+	'13': 'chicago',
+	'14': 'real salt lake',
+	'15': 'dallas',
+	'16': 'toronto',
+	'17': 'vancouver',
+	'18': 'Colorado',
+	'19': 'timbers',
+	'20': 'dynamo',
+	'21': 'columbus',
+	'22': 'kansas',
+	'23': 'atlanta ',
+	'24': 'd.c',
+	'25': 'angeles',
+	'26': 'minnesota',
+	'27': 'montreal',
+	'28': 'england revolution',
+	'29': 'new york city',
+	'30': 'new york red bulls',
+	'31': 'orlando',
+	'32': 'philadelphia',
+	'33': 'portland',
+	'34': 'real salt lake',
+	'35': 'earthquakes',
+	'36': 'sounders'
+}
+
+module.exports = teams;
